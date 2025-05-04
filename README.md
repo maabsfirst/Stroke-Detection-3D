@@ -2,6 +2,7 @@
 # Brain Tumor Classification using 3D Convolutional Neural Network (CNN)
 
 This project utilizes a 3D Convolutional Neural Network (CNN) to classify brain tumor images into three categories: "Class 0", "Class 1", and "Class 2". The dataset was sourced from Pakistan PIMS and IDC and was collected over a span of 10 months. The data was initially in DICOM format and has been significantly preprocessed and cleaned using various scripts.
+For Demo: https://huggingface.co/spaces/berrygudboi/FYP 
 
 ## Table of Contents
 - [Introduction](#introduction)
